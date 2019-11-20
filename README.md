@@ -1,6 +1,3 @@
-# LASSO_HF_Trading
-Effect of LASSO applied in high frequency trading
-
 # Summary
 · Goal: explore the effect of Least Absolute Shrinkage and Selection Operator (LASSO) in the prediction of rolling 1-minute-ahead return.
 
